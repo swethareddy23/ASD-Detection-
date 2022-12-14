@@ -1,1 +1,1 @@
-# DETECTION OF ASD 
+# Autism Spectrum Disorder Detection 
