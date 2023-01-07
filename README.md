@@ -48,6 +48,6 @@ from the ImageNet database.
 * Inception-v3 is a CNN model that is 48 layers deep. This model consists of
 two parts:
   *  1. Feature extraction part with a convolutional neural network.</br>
-2. Classification part with fully-connected and logistic layers.</br>
+ * 2. Classification part with fully-connected and logistic layers.</br>
 #### Model 2: ResNet 50
 #### Model 3: VGG-19
