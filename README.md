@@ -14,6 +14,9 @@ ASD or NOT, based on the Facial Expression.
 The dataset is taken from Kaggle which contains 2930 facial images of children
 in the age group of 3-9 years in two subfolders Autistic and Non-Autistic.
 
+#### Preview of Dataset
+
+
 ## Preprocessing: 
 The purpose of the data preprocessing was to clean and crop
 the images. Because the data were collected from Internet resources by Piosenka, they had to be preprocessed before they could be used to train the deep
