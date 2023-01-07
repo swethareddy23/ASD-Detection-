@@ -15,10 +15,10 @@ The dataset is taken from Kaggle which contains 2930 facial images of children
 in the age group of 3-9 years in two subfolders Autistic and Non-Autistic.
 
 #### Preview of Dataset
-* Autistic Images from Dataset
+* Autistic Images from Dataset</br>
 <img src= https://github.com/swethareddy23/Autism-Spectrum-Disorder-Detection/blob/main/asd/autistic.png width='400' height='250' /></br>
 
-* Non-Autistic Images from dataset
+* Non-Autistic Images from dataset</br>
 <img src= https://github.com/swethareddy23/Autism-Spectrum-Disorder-Detection/blob/main/asd/non_autistic.png width='400' height='250' /></br>
 
 ## Preprocessing: 
