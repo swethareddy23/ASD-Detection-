@@ -36,7 +36,18 @@ The idea behind transfer learning is that a neural network that has been trained
 That's why it's called transfer learning because we transfer the learning of an existing model to a new dataset.
 ##### Challenges:
 * Deep learning methods are data-hungry
-* >50K data items needed for training
+* Greater than 50K data items needed for training
 * The distributions of the source and target data must be the same.
 * Labeled data in the target domain may be limited
 * This problem is typically addressed with transfer learning
+####  Model 1: Inception V3
+* Inception V3 is a Deep Learning model based on Convolutional Neural
+Networks, which is used for Image Classification.
+* It is a version of the network already trained on more than a million images
+from the ImageNet database.
+* Inception-v3 is a CNN model that is 48 layers deep. This model consists of
+two parts:
+1. Feature extraction part with a convolutional neural network.</br>
+2. Classification part with fully-connected and logistic layers.</br>
+#### Model 2: ResNet 50
+#### Model 3: VGG-19
