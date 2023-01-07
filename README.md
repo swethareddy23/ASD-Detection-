@@ -76,3 +76,8 @@ layers, one MaxPool layer, and one average pool layer).
 Identity block. Each convolution block has 3 convolution layers and each
 identity block also has 3 convolution layers. The ResNet-50 has over 23
 million trainable parameters.
+
+## Results
+### InceptionV3
+#### Training Accuracy Vs Validation Accuracy</br>
+<img src= https://github.com/swethareddy23/Autism-Spectrum-Disorder-Detection/blob/main/asd/Inceptionv3/inception_epoch50_accuracy%20(2).png width='400' height='250' /></br>
