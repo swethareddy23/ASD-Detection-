@@ -9,3 +9,5 @@ in the type and severity of symptoms people experience.
 Design a deep learning based model architecture to predict if a child has
 ASD or NOT, based on the Facial Expression.
 
+## Dataset
+>[Link to Dataset](https://www.kaggle.com/datasets/cihan063/autism-image-data)</br>
