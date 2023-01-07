@@ -48,6 +48,22 @@ from the ImageNet database.
 * Inception-v3 is a CNN model that is 48 layers deep. This model consists of
 two parts:
   *  1. Feature extraction part with a convolutional neural network.</br>
- * 2. Classification part with fully-connected and logistic layers.</br>
+  * 2. Classification part with fully-connected and logistic layers.</br>
 #### Model 2: ResNet 50
+* VGG is a deep CNN, consists a total of 19 layers.
+* The 16 Convolutional layers are used for feature extraction and next 3
+layers for classification
+* An RGB image of size 224×224 is inputted into this model.
+###### Feature Extraction
+* The 16 Convolutional layers are divided into 5 sub groups.
+* Each sub group has
+1. Convolution layers</br>
+2. Max Pooling</br>
+4. ReLU</br>
+###### Classification
+* The Feature map from feature extraction is then passed to next three
+layers for classification.</br>
+1. Flatten layer</br>
+2. Dense layer</br>
+3. Activation Function</br>
 #### Model 3: VGG-19
