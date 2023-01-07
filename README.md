@@ -49,7 +49,7 @@ from the ImageNet database.
 two parts:
   *  1. Feature extraction part with a convolutional neural network.</br>
   * 2. Classification part with fully-connected and logistic layers.</br>
-#### Model 2: ResNet 50
+#### Model 2: VGG-19
 * VGG is a deep CNN, consists a total of 19 layers.
 * The 16 Convolutional layers are used for feature extraction and next 3
 layers for classification
@@ -66,4 +66,13 @@ layers for classification.</br>
 1. Flatten layer</br>
 2. Dense layer</br>
 3. Activation Function</br>
-#### Model 3: VGG-19
+#### Model 3: ResNet 50
+* ResNet stands for Residual Network and is a specific type of convolutional
+neural network (CNN) commonly used to power computer vision
+applications.
+* ResNet-50 is a 50-layer convolutional neural network (48 convolutional
+layers, one MaxPool layer, and one average pool layer).
+* The ResNet-50 model consists of 5 stages each with a convolution and
+Identity block. Each convolution block has 3 convolution layers and each
+identity block also has 3 convolution layers. The ResNet-50 has over 23
+million trainable parameters.
