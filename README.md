@@ -103,3 +103,7 @@ million trainable parameters.
 
 #### Classification Report</br>
 <img src= https://github.com/swethareddy23/Autism-Spectrum-Disorder-Detection/blob/main/asd/VGG-19/CLASSIFICATION_REPORT_VGG19.png width='400' height='250' /></br>
+
+### ResNet-50
+#### Training Accuracy Vs Validation Accuracy</br>
+<img src= https://github.com/swethareddy23/Autism-Spectrum-Disorder-Detection/blob/main/asd/ResNet50/resnet_acc_new.png width='400' height='250' /></br>
