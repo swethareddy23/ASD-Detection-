@@ -93,13 +93,13 @@ million trainable parameters.
 
 ### VGG-19
 #### Training Accuracy Vs Validation Accuracy</br>
-<img src= https://github.com/swethareddy23/Autism-Spectrum-Disorder-Detection/blob/main/asd/Inceptionv3/inception_epoch50_accuracy%20(2).png width='400' height='250' /></br>
+<img src= https://github.com/swethareddy23/Autism-Spectrum-Disorder-Detection/blob/main/asd/VGG-19/vgg19_epoch50%20(1).png width='400' height='250' /></br>
 
 #### Training Loss Vs Validation Loss</br>
-<img src= https://github.com/swethareddy23/Autism-Spectrum-Disorder-Detection/blob/main/asd/Inceptionv3/inception_loss.png width='400' height='250' /></br>
+<img src= https://github.com/swethareddy23/Autism-Spectrum-Disorder-Detection/blob/main/asd/VGG-19/vgg19_loss.png width='400' height='250' /></br>
 
 #### Confusion Matrix</br>
-<img src=https://github.com/swethareddy23/Autism-Spectrum-Disorder-Detection/blob/main/asd/Inceptionv3/cm.png width='400' height='250' /></br>
+<img src=https://github.com/swethareddy23/Autism-Spectrum-Disorder-Detection/blob/main/asd/VGG-19/CONFUSION_MATRIX_VGG.png width='400' height='250' /></br>
 
 #### Classification Report</br>
-<img src= https://github.com/swethareddy23/Autism-Spectrum-Disorder-Detection/blob/main/asd/Inceptionv3/cr.png width='400' height='250' /></br>
+<img src= https://github.com/swethareddy23/Autism-Spectrum-Disorder-Detection/blob/main/asd/VGG-19/CLASSIFICATION_REPORT_VGG19.png width='400' height='250' /></br>
