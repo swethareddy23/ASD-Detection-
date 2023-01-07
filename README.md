@@ -28,3 +28,15 @@ learning model. The dataset creator automatically cropped the face from the
 original image. Then, the dataset was split into 2,530 images for training, 200
 for validation, and 200 for testing. To scaling, the normalization method was applied; the dataset was rescaling the parameters of all the images from the pixel
 values [0, 255] to [0, 1].
+
+
+## Training
+#### Transfer Learning
+The idea behind transfer learning is that a neural network that has been trained on a large dataset can apply its knowledge to a dataset it has never seen before.</br>
+That's why it's called transfer learning because we transfer the learning of an existing model to a new dataset.
+##### Challenges:
+* Deep learning methods are data-hungry
+* >50K data items needed for training
+* The distributions of the source and target data must be the same.
+* Labeled data in the target domain may be limited
+* This problem is typically addressed with transfer learning
